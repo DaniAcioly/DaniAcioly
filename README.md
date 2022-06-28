@@ -1,6 +1,6 @@
 ### Oie! 👋 
 Me chamo Daniela Acioly :smiley: 
-
+Estou em transição de carreira e em breve serei uma dev. Sejam muito bem-vindes!
 <div align="center">
   <a href="https://github.com/daniacioly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniacioly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
